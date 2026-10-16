@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-16 |
 | [Buyers Who Never Browsed](./practice/sql/buyers-who-never-browsed) | SQL | Easy | 2026-10-16 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-16 |
 
