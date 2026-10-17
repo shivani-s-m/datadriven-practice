@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tenure Mentorship Match](./practice/sql/tenure-mentorship-match) | SQL | Medium | 2026-10-17 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-17 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-10-17 |
 | [What Changed Overnight](./practice/python/what-changed-overnight) | Python | Medium | 2026-10-17 |
