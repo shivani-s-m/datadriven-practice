@@ -1,4 +1,4 @@
-# bonny_toucan_2470's data engineering practice
+# data engineering practice
 
 Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
