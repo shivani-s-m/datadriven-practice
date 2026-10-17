@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What Changed Overnight](./practice/python/what-changed-overnight) | Python | Medium | 2026-10-17 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-17 |
 | [Unique Searchers](./practice/sql/unique-searchers) | SQL | Easy | 2026-10-17 |
 | [Top 10 Model Accuracies](./practice/sql/top-10-model-accuracies) | SQL | Easy | 2026-10-17 |
