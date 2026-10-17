@@ -1,0 +1,47 @@
+{
+  "tables": [
+    {
+      "name": "customers",
+      "columns": [
+        {
+          "name": "customer_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "addresses",
+      "columns": [
+        {
+          "name": "address_id"
+        },
+        {
+          "name": "customer_id",
+          "key": "pk"
+        },
+        {
+          "name": "address_from"
+        },
+        {
+          "name": "address_till"
+        },
+        {
+          "name": "address"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "customers",
+        "column": "customer_id"
+      },
+      "to": {
+        "table": "addresses",
+        "column": "customer_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}
