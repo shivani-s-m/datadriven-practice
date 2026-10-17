@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Annual Cloud Spend](./practice/sql/annual-cloud-spend) | SQL | Easy | 2026-10-17 |
 | [Personal Best](./practice/data_modeling/personal-best) | Data Modeling | Easy | 2026-10-17 |
 | [Where Everyone Was](./practice/data_modeling/where-everyone-was) | Data Modeling | Easy | 2026-10-17 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-17 |
