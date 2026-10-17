@@ -1,0 +1,75 @@
+{
+  "tables": [
+    {
+      "name": "exercise",
+      "columns": [
+        {
+          "name": "exercise_id",
+          "key": "pk"
+        },
+        {
+          "name": "date"
+        },
+        {
+          "name": "user_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "users",
+      "columns": [
+        {
+          "name": "user_id",
+          "key": "pk"
+        },
+        {
+          "name": "username"
+        }
+      ]
+    },
+    {
+      "name": "sets",
+      "columns": [
+        {
+          "name": "set_id",
+          "key": "pk"
+        },
+        {
+          "name": "exercise_id",
+          "key": "fk"
+        },
+        {
+          "name": "reps"
+        },
+        {
+          "name": "weights"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "exercise",
+        "column": "user_id"
+      },
+      "to": {
+        "table": "users",
+        "column": "user_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "sets",
+        "column": "exercise_id"
+      },
+      "to": {
+        "table": "exercise",
+        "column": "exercise_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}
