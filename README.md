@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-10-18 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-10-18 |
 | [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-10-18 |
 | [The Churner Who Came Back](./practice/data_modeling/the-churner-who-came-back) | Data Modeling | Hard | 2026-10-18 |
