@@ -1,0 +1,43 @@
+name: Remove practice completion times
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  remove-time:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Remove Time rows from READMEs
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          pattern = re.compile(r"^\|\s*Time\s*\|", re.IGNORECASE)
+
+          for path in Path(".").rglob("*"):
+              if path.is_file() and path.name.lower() == "readme.md":
+                  original = path.read_bytes()
+                  cleaned = b"".join(
+                      line for line in original.splitlines(keepends=True)
+                      if not pattern.match(line.decode("utf-8"))
+                  )
+                  if cleaned != original:
+                      path.write_bytes(cleaned)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          if ! git diff --cached --quiet; then
+            git commit -m "Remove completion times from READMEs"
+            git push
+          fi
