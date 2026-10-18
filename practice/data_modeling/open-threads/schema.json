@@ -1,0 +1,82 @@
+{
+  "tables": [
+    {
+      "name": "employees",
+      "columns": [
+        {
+          "name": "employee_id",
+          "key": "pk"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "email"
+        }
+      ]
+    },
+    {
+      "name": "applications",
+      "columns": [
+        {
+          "name": "application_id",
+          "key": "pk"
+        },
+        {
+          "name": "name"
+        }
+      ]
+    },
+    {
+      "name": "usage",
+      "columns": [
+        {
+          "name": "usage_id",
+          "key": "pk"
+        },
+        {
+          "name": "employee_id",
+          "key": "fk"
+        },
+        {
+          "name": "application",
+          "key": "fk"
+        },
+        {
+          "name": "starttime"
+        },
+        {
+          "name": "endtime"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "usage",
+        "column": "employee_id",
+        "cardinality": "many"
+      },
+      "to": {
+        "table": "employees",
+        "column": "employee_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "usage",
+        "column": "application",
+        "cardinality": "many"
+      },
+      "to": {
+        "table": "applications",
+        "column": "application_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    }
+  ]
+}

@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Open Threads](./practice/data_modeling/open-threads) | Data Modeling | Medium | 2026-10-18 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-10-17 |
 | [Tenure Mentorship Match](./practice/sql/tenure-mentorship-match) | SQL | Medium | 2026-10-17 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-17 |
