@@ -1,4 +1,4 @@
-# data engineering practice
+# bonny_toucan_2470's data engineering practice
 
 Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-18 |
 | [Open Threads](./practice/data_modeling/open-threads) | Data Modeling | Medium | 2026-10-18 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-10-17 |
 | [Tenure Mentorship Match](./practice/sql/tenure-mentorship-match) | SQL | Medium | 2026-10-17 |
