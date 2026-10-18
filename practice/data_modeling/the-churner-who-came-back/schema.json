@@ -1,0 +1,145 @@
+{
+  "tables": [
+    {
+      "name": "subscribers",
+      "columns": [
+        {
+          "name": "subscriber_id",
+          "key": "pk"
+        },
+        {
+          "name": "email",
+          "key": "uk"
+        },
+        {
+          "name": "region_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "tiers",
+      "columns": [
+        {
+          "name": "tier_id",
+          "key": "pk"
+        },
+        {
+          "name": "tier_name"
+        },
+        {
+          "name": "amount"
+        }
+      ]
+    },
+    {
+      "name": "regions",
+      "columns": [
+        {
+          "name": "region_id",
+          "key": "pk"
+        },
+        {
+          "name": "region"
+        }
+      ]
+    },
+    {
+      "name": "subscription_events",
+      "columns": [
+        {
+          "name": "event_id",
+          "key": "pk"
+        },
+        {
+          "name": "time_stamp"
+        },
+        {
+          "name": "from_tier_id",
+          "key": "fk"
+        },
+        {
+          "name": "to_tier_id",
+          "key": "fk"
+        },
+        {
+          "name": "subscription_id",
+          "key": "fk"
+        },
+        {
+          "name": "activity"
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "columns": [
+        {
+          "name": "subscription_id",
+          "key": "pk"
+        },
+        {
+          "name": "user_id",
+          "key": "fk"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "subscribers",
+        "column": "region_id"
+      },
+      "to": {
+        "table": "regions",
+        "column": "region_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "subscriptions",
+        "column": "user_id"
+      },
+      "to": {
+        "table": "subscribers",
+        "column": "subscriber_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "subscription_events",
+        "column": "subscription_id"
+      },
+      "to": {
+        "table": "subscriptions",
+        "column": "subscription_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "subscription_events",
+        "column": "from_tier_id"
+      },
+      "to": {
+        "table": "tiers",
+        "column": "tier_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "subscription_events",
+        "column": "to_tier_id"
+      },
+      "to": {
+        "table": "tiers",
+        "column": "tier_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}

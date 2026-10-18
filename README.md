@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Churner Who Came Back](./practice/data_modeling/the-churner-who-came-back) | Data Modeling | Hard | 2026-10-18 |
 | [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-18 |
 | [Open Threads](./practice/data_modeling/open-threads) | Data Modeling | Medium | 2026-10-18 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-10-17 |
