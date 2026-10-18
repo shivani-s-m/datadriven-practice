@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-17 |
 | Accepted | on the first submission |
-| Time | 40 min |
 | Hints | none |
 | Concepts | Arithmetic, Dictionaries, Iteration, Conditionals, Lists, List Modification, Sorting, Strings, Variables |
 

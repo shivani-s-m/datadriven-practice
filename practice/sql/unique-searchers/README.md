@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-17 |
 | Accepted | on the first submission |
-| Time | under a minute |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Counting, Distinct Counting, Deduplication, Query Basics |

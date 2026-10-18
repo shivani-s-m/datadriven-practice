@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-17 |
 | Accepted | on the 2nd submission |
-| Time | 4 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Window Partitioning, Query Basics |

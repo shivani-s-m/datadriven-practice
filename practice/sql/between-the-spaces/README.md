@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-17 |
 | Accepted | on the first submission |
-| Time | 4 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | String Length, String Replacement, Query Basics |

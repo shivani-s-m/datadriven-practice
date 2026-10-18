@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-17 |
 | Accepted | on the first submission |
-| Time | 7 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Group Filtering, Case Conversion, Query Basics, Sums & Averages, Filtering |

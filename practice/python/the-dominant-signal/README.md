@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-17 |
 | Accepted | on the first submission |
-| Time | 5 min |
 | Hints | none |
 | Concepts | Collections, Dictionaries, Iteration, Frequency Counting, List Comprehension |
 

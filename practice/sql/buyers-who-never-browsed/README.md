@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-16 |
 | Accepted | on the first submission |
-| Time | 12 min |
 | Hints | none |
 | Query complexity | O(n log n), the optimum is O(n²) |
 | Concepts | Inner Joins, Sorting Results, Query Basics, Correlated Subquery, Filtering |

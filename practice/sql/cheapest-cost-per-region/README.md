@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-16 |
 | Accepted | on the first submission |
-| Time | 5 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Grouping, Min & Max, Query Basics |
