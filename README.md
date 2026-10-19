@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-19 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-10-18 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-10-18 |
 | [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-10-18 |
