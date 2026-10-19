@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-10-19 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-10-19 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-19 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-10-18 |
