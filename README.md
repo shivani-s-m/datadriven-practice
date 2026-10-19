@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-10-19 |
 | [Power Users by Session Activity](./practice/sql/power-users-by-session-activity) | SQL | Medium | 2026-10-19 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-10-19 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-10-19 |
