@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-19 |
 | Accepted | on the first submission |
-| Time | 4 min |
 | Hints | none |
 | Query complexity | O(n log n), the optimum is O(n) |
 | Concepts | Counting, Inner Joins, Outer Joins, Multiple JOINs, Query Basics, Self-Join, Set Combination |
