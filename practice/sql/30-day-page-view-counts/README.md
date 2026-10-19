@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-19 |
 | Accepted | on the first submission |
-| Time | 31 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Range Filtering, Counting, Grouping, Query Basics, Filtering |
