@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-20 |
 | Accepted | on the first submission |
-| Time | under a minute |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Sorting Results, Query Basics, Filtering |
