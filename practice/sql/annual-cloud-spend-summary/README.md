@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-20 |
 | Accepted | on the first submission |
-| Time | 4 min |
 | Hints | none |
 | Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | Counting, Distinct Counting, Deduplication, Date Parts, Grouping, Query Basics, Sums & Averages |
