@@ -1,0 +1,18 @@
+# Never-Ordered Products
+
+*In the catalog. Never purchased.*
+
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/never_ordered_products)
+
+## How it went
+
+| | |
+|---|---|
+| Solved | 2026-10-21 |
+| Accepted | on the first submission |
+| Time | 6 min |
+| Hints | none |
+| Query complexity | O(n log n), optimal |
+| Concepts | DataFrame Basics, Semi & Anti Joins |
+
+The accepted solution is in [`solution.sql`](./solution.sql).
