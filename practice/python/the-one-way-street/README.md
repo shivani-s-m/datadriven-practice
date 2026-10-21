@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-21 |
 | Accepted | on the first submission |
-| Time | 15 min |
 | Hints | none |
 | Concepts | Boolean Operators, Iteration, Guard Clauses, Conditionals, Math Ops, Variables |
 
