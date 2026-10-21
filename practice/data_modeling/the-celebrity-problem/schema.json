@@ -1,0 +1,117 @@
+{
+  "tables": [
+    {
+      "name": "users",
+      "columns": [
+        {
+          "name": "user_id",
+          "key": "pk"
+        },
+        {
+          "name": "email"
+        }
+      ]
+    },
+    {
+      "name": "followers",
+      "columns": [
+        {
+          "name": "user_id",
+          "key": "pk"
+        },
+        {
+          "name": "follower_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "posts",
+      "columns": [
+        {
+          "name": "post_id",
+          "key": "pk"
+        },
+        {
+          "name": "user_id",
+          "key": "fk"
+        },
+        {
+          "name": "content"
+        },
+        {
+          "name": "timestamp"
+        }
+      ]
+    },
+    {
+      "name": "engagement",
+      "columns": [
+        {
+          "name": "engagement_id",
+          "key": "pk"
+        },
+        {
+          "name": "post_id",
+          "key": "fk"
+        },
+        {
+          "name": "activity"
+        },
+        {
+          "name": "user_id",
+          "key": "fk"
+        },
+        {
+          "name": "timestamp"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "followers",
+        "column": "follower_id"
+      },
+      "to": {
+        "table": "users",
+        "column": "user_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "posts",
+        "column": "user_id"
+      },
+      "to": {
+        "table": "followers",
+        "column": "follower_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "engagement",
+        "column": "user_id"
+      },
+      "to": {
+        "table": "users",
+        "column": "user_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "engagement",
+        "column": "post_id"
+      },
+      "to": {
+        "table": "posts",
+        "column": "post_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}
