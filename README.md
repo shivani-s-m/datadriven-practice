@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The One-Way Street](./practice/python/the-one-way-street) | Python | Easy | 2026-10-21 |
 | [The Never-Ending Sequence](./practice/python/the-never-ending-sequence) | Python | Easy | 2026-10-21 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-10-20 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-10-20 |
