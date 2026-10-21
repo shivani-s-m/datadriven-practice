@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-21 |
 | Accepted | on the first submission |
-| Time | 6 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | DataFrame Basics, Semi & Anti Joins |
