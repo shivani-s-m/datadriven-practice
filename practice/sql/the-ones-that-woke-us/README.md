@@ -1,0 +1,18 @@
+# The Ones That Woke Us
+
+*The year's serious incidents, and nothing quieter.*
+
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/the_ones_that_woke_us)
+
+## How it went
+
+| | |
+|---|---|
+| Solved | 2026-10-22 |
+| Accepted | on the first submission |
+| Time | 14 min |
+| Hints | none |
+| Query complexity | O(n), the optimum is O(n log n) |
+| Concepts | Boolean Column Logic, Column Expressions, DataFrame Basics, Date Parts, Filtering, Case Conversion |
+
+The accepted solution is in [`solution.sql`](./solution.sql).
