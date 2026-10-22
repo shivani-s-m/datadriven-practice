@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-22 |
 | Accepted | on the first submission |
-| Time | 1 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Null Handling, Outer Joins, Sorting Results, Query Basics, Filtering |
