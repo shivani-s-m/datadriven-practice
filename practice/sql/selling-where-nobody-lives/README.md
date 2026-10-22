@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-22 |
 | Accepted | on the first submission |
-| Time | 6 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Deduplication, Set Membership, Null Handling, Query Basics, Filtering |
