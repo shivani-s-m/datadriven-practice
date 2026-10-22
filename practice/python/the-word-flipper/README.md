@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-22 |
 | Accepted | on the first submission |
-| Time | 7 min |
 | Hints | none |
 | Concepts | String Methods, Splitting & Joining |
 
