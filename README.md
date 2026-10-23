@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Who's Looking](./practice/sql/who-s-looking) | SQL | Easy | 2026-10-23 |
 | [One Step Behind](./practice/python/one-step-behind) | Python | Medium | 2026-10-23 |
 | [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-10-23 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-10-23 |
