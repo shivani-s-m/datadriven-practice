@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-23 |
 | Accepted | on the 2nd submission |
-| Time | under a minute |
 | Hints | none |
 | Concepts | Iteration, Lists, List Modification, Variables |
 
