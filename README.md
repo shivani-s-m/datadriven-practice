@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-10-23 |
 | [The February Cohort](./practice/sql/the-february-cohort) | SQL | Easy | 2026-10-23 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-23 |
 | [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Medium | 2026-10-22 |
