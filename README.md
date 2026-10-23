@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-10-23 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-10-23 |
 | [Metric Volatility Gap](./practice/sql/metric-volatility-gap) | SQL | Easy | 2026-10-23 |
 | [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-10-23 |
