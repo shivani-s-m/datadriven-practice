@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-23 |
 | Accepted | on the 3rd submission |
-| Time | under a minute |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Date Truncation, Query Basics, Filtering |
