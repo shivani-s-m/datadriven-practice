@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-23 |
 | [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Medium | 2026-10-22 |
 | [The Spending Rhythm](./practice/sql/the-spending-rhythm) | SQL | Easy | 2026-10-22 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-10-22 |
