@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-23 |
 | Accepted | on the first submission |
-| Time | 5 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | String Joining, Grouping, Min & Max, Query Basics, String Building |
