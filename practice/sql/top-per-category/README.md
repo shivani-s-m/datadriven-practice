@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-24 |
 | Accepted | on the first submission |
-| Time | 5 min |
 | Hints | none |
 | Query complexity | O(n log n), the optimum is O(n²) |
 | Concepts | Null Handling, Query Basics, Correlated Subquery, Filtering |
