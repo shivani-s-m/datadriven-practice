@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-24 |
 | Accepted | on the first submission |
-| Time | 3 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Date Truncation, Grouping, Query Basics, Sums & Averages, Filtering |
