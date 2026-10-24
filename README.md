@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-10-24 |
 | [Active Duo](./practice/sql/active-duo) | SQL | Medium | 2026-10-24 |
 | [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Medium | 2026-10-24 |
 | [Trend Spotter](./practice/sql/trend-spotter) | SQL | Medium | 2026-10-24 |
