@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ad Revenue 2026](./practice/sql/ad-revenue-year) | SQL | Easy | 2026-10-24 |
 | [Rate Limit Rules Per Endpoint](./practice/sql/rate-limit-rules-per-endpoint) | SQL | Medium | 2026-10-23 |
 | [Who's Looking](./practice/sql/who-s-looking) | SQL | Easy | 2026-10-23 |
 | [One Step Behind](./practice/python/one-step-behind) | Python | Medium | 2026-10-23 |
