@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-25 |
 | Accepted | on the first submission |
-| Time | 5 min |
 | Hints | none |
 | Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | Conditional Logic, Conditional Aggregation, Counting, Grouping, Null Handling, Query Basics, Sums & Averages |
