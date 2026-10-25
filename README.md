@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [API Calls With and Without Errors](./practice/sql/api-calls-with-and-without-errors) | SQL | Medium | 2026-10-25 |
 | [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-10-24 |
 | [Active Duo](./practice/sql/active-duo) | SQL | Medium | 2026-10-24 |
 | [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Medium | 2026-10-24 |
