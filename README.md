@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-26 |
 | [API Calls With and Without Errors](./practice/sql/api-calls-with-and-without-errors) | SQL | Medium | 2026-10-25 |
 | [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-10-24 |
 | [Active Duo](./practice/sql/active-duo) | SQL | Medium | 2026-10-24 |
