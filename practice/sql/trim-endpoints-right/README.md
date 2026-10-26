@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-26 |
 | Accepted | on the 2nd submission |
-| Time | under a minute |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Query Basics, Whitespace Trimming |
