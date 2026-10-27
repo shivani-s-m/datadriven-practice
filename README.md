@@ -37,7 +37,6 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 | [The Ones That Woke Us](./practice/spark/the-ones-that-woke-us) | Spark | Easy | 2026-10-22 |
 | [Product Name Letter Replace](./practice/spark/product-name-letter-replace) | Spark | Easy | 2026-10-22 |
 | [Top Repos by Successful Builds](./practice/spark/top-repos-by-successful-builds) | Spark | Medium | 2026-10-22 |
-| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-10-22 |
 | [The Scorched Earth Reviews](./practice/spark/the-scorched-earth-reviews) | Spark | Easy | 2026-10-22 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-10-22 |
 | [Never-Ordered Products](./practice/spark/never-ordered-products) | Spark | Easy | 2026-10-21 |
