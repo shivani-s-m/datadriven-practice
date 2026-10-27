@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-10-27 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-10-27 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-10-27 |
 | [A Number for the Seller](./practice/data_modeling/a-number-for-the-seller) | Data Modeling | Easy | 2026-10-27 |
