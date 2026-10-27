@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Retargeting Campaign Impressions](./practice/sql/retargeting-campaign-impressions) | SQL | Easy | 2026-10-27 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-10-27 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-10-27 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-10-27 |
