@@ -11,7 +11,6 @@
 | Solved | 2026-10-22 |
 | Language | PySpark |
 | Accepted | on the first submission |
-| Time | 1 h 4 min |
 | Hints | none |
 | Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | Column Expressions, DataFrame Basics, Filtering |

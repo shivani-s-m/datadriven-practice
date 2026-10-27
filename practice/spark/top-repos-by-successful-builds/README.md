@@ -11,7 +11,6 @@
 | Solved | 2026-10-22 |
 | Language | PySpark |
 | Accepted | on the first submission |
-| Time | 7 min |
 | Hints | none |
 | Query complexity | O(n²), the optimum is O(n log n) |
 | Concepts | Aggregate Functions, Column Expressions, Conditional Aggregation, DataFrame Basics, Grouping, Sorting Results, Transformation Chaining, Conditional Columns |
