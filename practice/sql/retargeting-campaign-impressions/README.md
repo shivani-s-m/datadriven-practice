@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-27 |
 | Accepted | on the first submission |
-| Time | 3 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Pattern Matching, Query Basics, Filtering |
