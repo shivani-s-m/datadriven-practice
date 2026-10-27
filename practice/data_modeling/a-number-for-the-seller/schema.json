@@ -1,0 +1,94 @@
+{
+  "tables": [
+    {
+      "name": "products",
+      "columns": [
+        {
+          "name": "product_id",
+          "type": "BIGINT",
+          "key": "pk"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "live_at",
+          "type": "TIMESTAMP"
+        },
+        {
+          "name": "is_active",
+          "type": "BOOLEAN"
+        },
+        {
+          "name": "seller_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "sellers",
+      "columns": [
+        {
+          "name": "seller_id",
+          "type": "UUID",
+          "key": "pk"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR"
+        }
+      ]
+    },
+    {
+      "name": "sales",
+      "columns": [
+        {
+          "name": "sale_id",
+          "type": "UUID"
+        },
+        {
+          "name": "units",
+          "type": "INT"
+        },
+        {
+          "name": "timestamp",
+          "type": "TIMESTAMP"
+        },
+        {
+          "name": "product_id",
+          "type": "BIGINT",
+          "key": "fk"
+        },
+        {
+          "name": "revenue",
+          "type": "BIGINT"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "products",
+        "column": "seller_id"
+      },
+      "to": {
+        "table": "sellers",
+        "column": "seller_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "sales",
+        "column": "product_id"
+      },
+      "to": {
+        "table": "products",
+        "column": "product_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}

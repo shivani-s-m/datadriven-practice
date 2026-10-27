@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [A Number for the Seller](./practice/data_modeling/a-number-for-the-seller) | Data Modeling | Easy | 2026-10-27 |
 | [Love and Loathing](./practice/sql/love-and-loathing) | SQL | Hard | 2026-10-26 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-26 |
 | [API Calls With and Without Errors](./practice/sql/api-calls-with-and-without-errors) | SQL | Medium | 2026-10-25 |
