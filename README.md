@@ -40,7 +40,6 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 | [Top Repos by Successful Builds](./practice/spark/top-repos-by-successful-builds) | Spark | Medium | 2026-10-22 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-10-22 |
 | [The Scorched Earth Reviews](./practice/spark/the-scorched-earth-reviews) | Spark | Easy | 2026-10-22 |
-| [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-10-22 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-10-22 |
 | [Never-Ordered Products](./practice/spark/never-ordered-products) | Spark | Easy | 2026-10-21 |
 | [Never-Ordered Products](./practice/sql/never-ordered-products) | SQL | Easy | 2026-10-21 |
