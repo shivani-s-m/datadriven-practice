@@ -40,6 +40,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 | [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-10-22 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-10-22 |
 | [Never-Ordered Products](./practice/sql/never-ordered-products) | SQL | Easy | 2026-10-21 |
+| [Never-Ordered Products](./practice/spark/never-ordered-products) | Spark | Easy | 2026-10-21 |
 | [The Celebrity Problem](./practice/data_modeling/the-celebrity-problem) | Data Modeling | Medium | 2026-10-21 |
 | [The One-Way Street](./practice/python/the-one-way-street) | Python | Easy | 2026-10-21 |
 | [The Never-Ending Sequence](./practice/python/the-never-ending-sequence) | Python | Easy | 2026-10-21 |
