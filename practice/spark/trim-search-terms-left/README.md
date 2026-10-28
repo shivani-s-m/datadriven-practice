@@ -11,7 +11,6 @@
 | Solved | 2026-10-28 |
 | Language | PySpark |
 | Accepted | on the first submission |
-| Time | 9 min |
 | Hints | none |
 | Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | DataFrame Basics, Trim & Replace |
