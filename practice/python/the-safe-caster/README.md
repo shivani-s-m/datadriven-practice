@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-29 |
 | Accepted | on the first submission |
-| Time | 8 min |
 | Hints | none |
 | Concepts | Dictionaries, Guard Clauses, Conditionals, Strings, Error Handling, Variables |
 
