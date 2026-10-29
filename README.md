@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Streak Breaker](./practice/python/the-streak-breaker) | Python | Easy | 2026-10-29 |
 | [Trim Search Terms Left](./practice/spark/trim-search-terms-left) | Spark | Easy | 2026-10-28 |
 | [The Price of a Tap](./practice/sql/the-price-of-a-tap) | SQL | Easy | 2026-10-27 |
 | [Retargeting Campaign Impressions](./practice/sql/retargeting-campaign-impressions) | SQL | Easy | 2026-10-27 |
