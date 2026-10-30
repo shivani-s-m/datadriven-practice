@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-30 |
 | Accepted | on the first submission |
-| Time | 8 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Grouping, Inner Joins, Query Basics, Sums & Averages |
