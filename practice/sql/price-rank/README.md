@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-30 |
 | Accepted | on the first submission |
-| Time | 2 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Null Handling, Row Limiting, Window Partitioning, Ranking, Query Basics, String Search, Filtering |
