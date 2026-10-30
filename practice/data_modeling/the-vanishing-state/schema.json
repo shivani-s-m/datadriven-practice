@@ -1,0 +1,163 @@
+{
+  "tables": [
+    {
+      "name": "priority",
+      "columns": [
+        {
+          "name": "priority_id",
+          "key": "pk"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "deadline"
+        }
+      ]
+    },
+    {
+      "name": "tickets",
+      "columns": [
+        {
+          "name": "ticket_id",
+          "key": "pk"
+        },
+        {
+          "name": "submited_by",
+          "key": "fk"
+        },
+        {
+          "name": "description"
+        },
+        {
+          "name": "priority_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "users",
+      "columns": [
+        {
+          "name": "user_id",
+          "key": "pk"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "email"
+        }
+      ]
+    },
+    {
+      "name": "ticket_statuses",
+      "columns": [
+        {
+          "name": "status_id",
+          "key": "pk"
+        },
+        {
+          "name": "ticket_id",
+          "key": "pk"
+        },
+        {
+          "name": "timestamp"
+        },
+        {
+          "name": "agent_id",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "agents",
+      "columns": [
+        {
+          "name": "agent_id",
+          "key": "pk"
+        },
+        {
+          "name": "name"
+        }
+      ]
+    },
+    {
+      "name": "status",
+      "columns": [
+        {
+          "name": "status_id",
+          "key": "pk"
+        },
+        {
+          "name": "status_name"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "tickets",
+        "column": "submited_by",
+        "cardinality": "zeroOrMany"
+      },
+      "to": {
+        "table": "users",
+        "column": "user_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "ticket_statuses",
+        "column": "ticket_id",
+        "cardinality": "oneOrMany"
+      },
+      "to": {
+        "table": "tickets",
+        "column": "ticket_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "ticket_statuses",
+        "column": "agent_id",
+        "cardinality": "zeroOrMany"
+      },
+      "to": {
+        "table": "agents",
+        "column": "agent_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "ticket_statuses",
+        "column": "status_id"
+      },
+      "to": {
+        "table": "status",
+        "column": "status_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "tickets",
+        "column": "priority_id",
+        "cardinality": "exactlyOne"
+      },
+      "to": {
+        "table": "priority",
+        "column": "priority_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    }
+  ]
+}
