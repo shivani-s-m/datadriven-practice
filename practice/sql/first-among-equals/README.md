@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-30 |
 | Accepted | on the first submission |
-| Time | 12 min |
 | Hints | none |
 | Query complexity | O(n²), optimal |
 | Concepts | Counting, Grouping, Group Filtering, Inner Joins, Min & Max, Query Basics, Self-Join, Scalar Subquery, Filtering |
