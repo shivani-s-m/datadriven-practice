@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-10-30 |
 | Accepted | on the first submission |
-| Time | 1 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Counting, Grouping, Group Filtering, Pattern Matching, Query Basics, Sums & Averages, Filtering |
