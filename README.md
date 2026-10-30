@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where They Used to Live](./practice/data_modeling/where-they-used-to-live) | Data Modeling | Medium | 2026-10-30 |
 | [The Safe Caster](./practice/python/the-safe-caster) | Python | Easy | 2026-10-29 |
 | [The Streak Breaker](./practice/python/the-streak-breaker) | Python | Easy | 2026-10-29 |
 | [Trim Search Terms Left](./practice/spark/trim-search-terms-left) | Spark | Easy | 2026-10-28 |
