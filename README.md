@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Services With Most Error Occurrences](./practice/sql/services-with-most-error-occurrences) | SQL | Easy | 2026-10-30 |
 | [Cheapest CDN Route](./practice/sql/cheapest-cdn-route) | SQL | Easy | 2026-10-30 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-10-30 |
 | [The Vanishing State](./practice/data_modeling/the-vanishing-state) | Data Modeling | Easy | 2026-10-30 |
