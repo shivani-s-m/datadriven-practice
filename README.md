@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-10-30 |
 | [Ad Revenue by Age Bucket](./practice/sql/ad-revenue-by-age-bucket) | SQL | Medium | 2026-10-30 |
 | [First Among Equals](./practice/sql/first-among-equals) | SQL | Medium | 2026-10-30 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-10-30 |
