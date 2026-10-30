@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Price Rank](./practice/sql/price-rank) | SQL | Medium | 2026-10-30 |
 | [The Regulars](./practice/sql/the-regulars) | SQL | Hard | 2026-10-30 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-10-30 |
 | [Ad Revenue by Age Bucket](./practice/sql/ad-revenue-by-age-bucket) | SQL | Medium | 2026-10-30 |
