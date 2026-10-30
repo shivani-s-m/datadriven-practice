@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-10-30 |
 | [The Vanishing State](./practice/data_modeling/the-vanishing-state) | Data Modeling | Easy | 2026-10-30 |
 | [Price Rank](./practice/sql/price-rank) | SQL | Medium | 2026-10-30 |
 | [The Regulars](./practice/sql/the-regulars) | SQL | Hard | 2026-10-30 |
