@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Spend Audit](./practice/sql/user-spend-audit) | SQL | Medium | 2026-11-03 |
 | [Content Viewer Penetration](./practice/sql/content-viewer-penetration) | SQL | Easy | 2026-11-02 |
 | [Ebb and Flow](./practice/sql/ebb-and-flow) | SQL | Hard | 2026-10-31 |
 | [Services With Most Error Occurrences](./practice/sql/services-with-most-error-occurrences) | SQL | Easy | 2026-10-30 |
