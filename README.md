@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-11-04 |
 | [User Spend Audit](./practice/sql/user-spend-audit) | SQL | Medium | 2026-11-03 |
 | [Content Viewer Penetration](./practice/sql/content-viewer-penetration) | SQL | Easy | 2026-11-02 |
 | [Ebb and Flow](./practice/sql/ebb-and-flow) | SQL | Hard | 2026-10-31 |
