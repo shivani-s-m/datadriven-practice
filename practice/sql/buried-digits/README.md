@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-05 |
 | Accepted | on the first submission |
-| Time | 7 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Basic Types, Type Casting, String Replacement, Query Basics, Filtering |
