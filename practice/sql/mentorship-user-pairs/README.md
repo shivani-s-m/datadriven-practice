@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-05 |
 | Accepted | on the first submission |
-| Time | 12 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Date Parts, Inequality Joins, Inner Joins, Query Basics, Self-Join, Filtering |
