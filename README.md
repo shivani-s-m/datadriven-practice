@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Buried Digits](./practice/sql/buried-digits) | SQL | Medium | 2026-11-05 |
 | [Mentorship User Pairs](./practice/sql/mentorship-user-pairs) | SQL | Medium | 2026-11-05 |
 | [The Org Chart in Numbers](./practice/sql/the-org-chart-in-numbers) | SQL | Hard | 2026-11-05 |
 | [Mobile vs Desktop Session Duration](./practice/sql/mobile-vs-desktop-session-duration) | SQL | Medium | 2026-11-04 |
