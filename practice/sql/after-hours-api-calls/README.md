@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-06 |
 | Accepted | on the first submission |
-| Time | 4 min |
 | Hints | none |
 | Query complexity | O(n), optimal |
 | Concepts | Basic Types, Type Casting, Counting, Date Parts, Set Membership, Query Basics, Filtering |
