@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-06 |
 | Accepted | on the first submission |
-| Time | 10 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Common Table Expressions, Deduplication, Grouping, Row Limiting, Window Partitioning, Ranking, Query Basics, Sums & Averages, Filtering |
