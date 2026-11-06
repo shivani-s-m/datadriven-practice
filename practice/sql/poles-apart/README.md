@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-06 |
 | Accepted | on the first submission |
-| Time | 2 h 43 min |
 | Hints | none |
 | Query complexity | O(n log n), the optimum is O(n²) |
 | Concepts | Min & Max, Operator Precedence, Sorting Results, Query Basics, Self-Join, Filtering |
