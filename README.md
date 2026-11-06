@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Poles Apart](./practice/sql/poles-apart) | SQL | Medium | 2026-11-06 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-11-06 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [Buried Digits](./practice/sql/buried-digits) | SQL | Medium | 2026-11-05 |
