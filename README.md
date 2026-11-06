@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High Price Products](./practice/sql/high-price-products) | SQL | Easy | 2026-11-06 |
 | [After Hours API Calls](./practice/sql/after-hours-api-calls) | SQL | Medium | 2026-11-06 |
 | [Poles Apart](./practice/sql/poles-apart) | SQL | Medium | 2026-11-06 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-11-06 |
