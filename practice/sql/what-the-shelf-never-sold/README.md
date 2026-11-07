@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-07 |
 | Accepted | on the first submission |
-| Time | 17 min |
 | Hints | none |
 | Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | Null Defaulting, Grouping, Outer Joins, Query Basics, Sums & Averages |
