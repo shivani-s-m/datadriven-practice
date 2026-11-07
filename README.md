@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What the Shelf Never Sold](./practice/sql/what-the-shelf-never-sold) | SQL | Medium | 2026-11-07 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-11-07 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-07 |
 | [High Price Products](./practice/sql/high-price-products) | SQL | Easy | 2026-11-06 |
