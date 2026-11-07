@@ -18,7 +18,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [Buried Digits](./practice/sql/buried-digits) | SQL | Medium | 2026-11-05 |
 | [Mentorship User Pairs](./practice/sql/mentorship-user-pairs) | SQL | Medium | 2026-11-05 |
-| [The Org Chart in Numbers](./practice/sql/the-org-chart-in-numbers) | SQL | Easy | 2026-11-05 |
+| [The Org Chart in Numbers](./practice/sql/the-org-chart-in-numbers) | SQL | Hard | 2026-11-05 |
 | [Mobile vs Desktop Session Duration](./practice/sql/mobile-vs-desktop-session-duration) | SQL | Medium | 2026-11-04 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-11-04 |
 | [User Spend Audit](./practice/sql/user-spend-audit) | SQL | Medium | 2026-11-03 |
