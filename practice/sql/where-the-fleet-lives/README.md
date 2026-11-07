@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-07 |
 | Accepted | on the first submission |
-| Time | 7 min |
 | Hints | none |
 | Query complexity | O(n log n), optimal |
 | Concepts | Counting, Grouping, Set Membership, Query Basics, Filtering |
