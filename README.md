@@ -50,7 +50,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bonny_toucan_2470), commit
 | [API Calls With and Without Errors](./practice/sql/api-calls-with-and-without-errors) | SQL | Medium | 2026-10-25 |
 | [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-10-24 |
 | [Active Duo](./practice/sql/active-duo) | SQL | Medium | 2026-10-24 |
-| [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Easy | 2026-10-24 |
+| [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Medium | 2026-10-24 |
 | [Trend Spotter](./practice/sql/trend-spotter) | SQL | Medium | 2026-10-24 |
 | [Ad Revenue 2026](./practice/sql/ad-revenue-year) | SQL | Easy | 2026-10-24 |
 | [Rate Limit Rules Per Endpoint](./practice/sql/rate-limit-rules-per-endpoint) | SQL | Medium | 2026-10-23 |
