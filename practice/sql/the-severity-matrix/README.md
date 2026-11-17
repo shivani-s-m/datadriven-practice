@@ -10,7 +10,6 @@
 |---|---|
 | Solved | 2026-11-17 |
 | Accepted | on the first submission |
-| Time | 27 min |
 | Hints | 5 hints |
 | Query complexity | O(n log n), optimal |
 | Concepts | Conditional Logic, Conditional Aggregation, Counting, Grouping, Case Conversion, Query Basics, Sums & Averages |
